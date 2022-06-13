@@ -1,0 +1,20 @@
+nr,status,date,taskcontent,priorytet
+1,[ ],12-6,this is task 1,1
+2,[ ],13-6,this is task 2,2
+3,[ ],12-8,this is task 3,1
+4,[ ],12-9,this is task 4,2
+5,[ ],1-5,this is task 5,4
+6,[ ],14-6,this is task 6,3
+7,[ ],2-1,this is task 7,5
+8,[ ],2-2,this is task 8,1
+9,[ ],2-3,this is task 9,2
+10,[ ],10-6,this is task 10,4
+11,[ ],2-5,this is task 11,5
+12,[ ],2-6,this is task 12,2
+13,[ ],2-7,this is task 13,1
+14,[ ],2-8,this is task 14,2
+15,[ ],2-9,this is task 15,1
+16,[ ],2-10,this is task 16,4
+17,[ ],2-11,this is task 17,1
+18,[ ],2-12,this is task 18,2
+19,[ ],5-1,this is task 19,3
